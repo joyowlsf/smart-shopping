@@ -1,1 +1,1 @@
-# smart_shopping
+# smart-shopping
